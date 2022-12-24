@@ -1,0 +1,5 @@
+devops stages: 
+version control
+continous integration
+continous delivery
+continuous deployment
