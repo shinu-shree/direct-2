@@ -1,0 +1,7 @@
+plan,code - GIT
+Build - MAVEN
+Test
+Integration - JENKINS
+Deploy,Operate - DOCKER/ANSIBLE/CHEF
+Monitor
+
